@@ -200,4 +200,6 @@
         <item>10</item>
     </integer-array>
 
+    <!-- Whether the always on display mode is available. -->
+    <bool name="config_dozeAlwaysOnDisplayAvailable">false</bool>
 </resources>
