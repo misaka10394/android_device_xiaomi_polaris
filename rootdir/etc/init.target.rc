@@ -30,8 +30,3 @@
 on fs
     chmod 644 /mnt/vendor/persist/audio/us_manual_cal
     chmod 644 /persist/audio/us_manual_cal
-
-service ignss_2_0 /vendor/bin/ignss_2_0
-    class late_start
-    user system
-    group system inet sdcard_rw wakelock

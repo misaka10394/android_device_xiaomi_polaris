@@ -204,6 +204,7 @@ vendor/lib64/vendor.qti.hardware.fingerprint@1.0.so
 vendor/bin/hw/vendor.qti.gnss@2.0-service
 vendor/bin/DR_AP_Service
 vendor/bin/chre
+vendor/bin/hw/android.hardware.gnss@2.0-service-qti
 vendor/bin/loc_launcher
 vendor/bin/lowi-server
 vendor/bin/mlid
@@ -214,6 +215,7 @@ vendor/bin/xtwifi-inet-agent
 vendor/etc/cacert_location.pem
 vendor/etc/flp.conf
 vendor/etc/gps.conf
+vendor/etc/init/android.hardware.gnss@2.0-service-qti.rc
 vendor/etc/izat.conf
 vendor/etc/lowi.conf
 vendor/etc/sap.conf
